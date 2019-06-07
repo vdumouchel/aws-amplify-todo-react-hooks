@@ -1,0 +1,19 @@
+{
+    "react": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-notetaker-react-20190604181112-authRole",
+            "UnauthRoleArn": "arn:aws:iam::243153610219:role/amplify-notetaker-react-20190604181112-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::243153610219:role/amplify-notetaker-react-20190604181112-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-notetaker-react-20190604181112-deployment",
+            "UnauthRoleName": "amplify-notetaker-react-20190604181112-unauthRole",
+            "StackName": "amplify-notetaker-react-20190604181112",
+            "StackId": "arn:aws:cloudformation:us-east-1:243153610219:stack/amplify-notetaker-react-20190604181112/aa44f660-8715-11e9-970d-12ccfe651680"
+        },
+        "categories": {
+            "auth": {
+                "amplifynotetakera529273d": {}
+            }
+        }
+    }
+}
